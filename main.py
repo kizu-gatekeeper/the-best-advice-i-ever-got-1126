@@ -1,6 +1,8 @@
 """Entry for make.fun: The Best Advice I Ever Got.
 
 Writes one sentence of hard-earned advice to entry.txt.
+
+A single sentence, the way the advice was originally given.
 """
 import os
 
